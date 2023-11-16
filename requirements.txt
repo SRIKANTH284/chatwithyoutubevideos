@@ -4,3 +4,4 @@ langchain
 youtube-transcript-api
 tiktoken
 faiss-cpu
+openai==0.28
